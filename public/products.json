@@ -1,0 +1,74 @@
+[
+	{
+		"id": "01",
+		"brand": "M7 by Metronaut",
+		"price": 599,
+		"description": "This is a nice shirt",
+		"offer": 27,
+		"ratings": "4.5",
+		"image": "https://rukminim1.flixcart.com/image/452/542/kirr24w0/jacket/m/k/x/m-m7aw20jkt002b-m7-by-metronaut-original-imafyhwtn6hjwafn.jpeg?q=50",
+		"isCartlisted": false,
+		"isSavedLater": false,
+		"quantity": 1
+	},
+	{
+		"id": "02",
+		"brand": "Adrenex",
+		"price": 199,
+		"description": "This is a nice shirt",
+		"offer": 17,
+		"ratings": "4.5",
+		"image": "https://rukminim1.flixcart.com/image/452/542/kmkxbww0/jacket/c/h/z/m-adaw20jk004b-adrenex-original-imagfgcjsq3cguhr.jpeg?q=50",
+		"isCartlisted": false,
+		"isSavedLater": false,
+		"quantity": 1
+	},
+	{
+		"id": "03",
+		"brand": "Billion",
+		"price": 99,
+		"description": "This is a nice shirt",
+		"offer": 10,
+		"ratings": "4.5",
+		"image": "https://rukminim1.flixcart.com/image/452/542/keuagsw0/jacket/r/9/u/m-blaw20jkt03c-billion-original-imafvfhhbqdjvczy.jpeg?q=50",
+		"isCartlisted": false,
+		"isSavedLater": false,
+		"quantity": 1
+	},
+	{
+		"id": "04",
+		"brand": "Puma",
+		"price": 399,
+		"description": "This is a nice shirt",
+		"offer": 50,
+		"ratings": "4.5",
+		"image": "https://rukminim1.flixcart.com/image/452/542/jx257680/jacket/r/6/z/s-851763-puma-original-imafhhhzms3yvumc.jpeg?q=50",
+		"isCartlisted": false,
+		"isSavedLater": false,
+		"quantity": 1
+	},
+	{
+		"id": "05",
+		"brand": "Asics",
+		"price": 299,
+		"description": "This is a nice shirt",
+		"offer": 20,
+		"ratings": "4.5",
+		"image": "https://rukminim1.flixcart.com/image/452/542/kj1r53k0/jacket/f/c/h/m-2031b075-400-asics-original-imafyzcxeswpqza9.jpeg?q=50",
+		"isCartlisted": false,
+		"isSavedLater": false,
+		"quantity": 1
+	},
+	{
+		"id": "06",
+		"brand": "Flying Machine",
+		"price": 699,
+		"description": "This is a nice shirt",
+		"offer": 30,
+		"ratings": "4.5",
+		"image": "https://rukminim1.flixcart.com/image/452/542/jnc2bgw0/jacket/t/n/u/m-fmjk0616-flying-machine-original-imafafxqaqy6sqbj.jpeg?q=50",
+		"isCartlisted": false,
+		"isSavedLater": false,
+		"quantity": 1
+	}
+]

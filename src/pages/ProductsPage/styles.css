@@ -1,0 +1,8 @@
+.products-page-wrap {
+	margin-top: 4rem;
+}
+
+.cards-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+}
